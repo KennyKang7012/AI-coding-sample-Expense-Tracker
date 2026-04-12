@@ -2,14 +2,15 @@
    你需要填的設定
 ========================= */
 const CONFIG = {
-  CLIENT_ID: "",
-  SPREADSHEET_ID: "",
+  CLIENT_ID: "238928220153-msios159sn9l5dopk5mj414g1lrliap6.apps.googleusercontent.com",
+  SPREADSHEET_ID: "1jquWIjEyid507wNxFqt00VDWmdoevloj86xYHpWMTxo", // 試算表
 
   SHEET_RECORDS: "記帳紀錄",
   SHEET_FIELDS: "欄位表",
 
   SCOPES: "https://www.googleapis.com/auth/spreadsheets"
 };
+
 
 /* =========================
    全域狀態
